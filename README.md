@@ -20,11 +20,12 @@ TerraLib **cannot** do the following:
 
 ### Mod Guidelines
 
-Mods Can be Open or Closed Source, Open Source HIGHLY recommended.
-Mods cannot modify or delete, /, C:\, C:\Windows or C:\Windows\System32, since that's just malware as a .DLL
-Mods, cannot, currently, double as a separate modloader, since that doesn't make sense
-Modders are highly adviced to stay inline with the PEGI 12/ESRB T rating for the game, if so, warn the user beforehand if it's upped the rating.
-Do anything not listed here
+1. Mods Can be Open or Closed Source, Open Source HIGHLY recommended.
+2. Mods cannot modify or delete, /, C:\, C:\Windows or C:\Windows\System32, since that's just malware as a .DLL
+3. Mods, cannot, currently, double as a separate modloader, since that doesn't make sense
+4. Modders are highly adviced to stay inline with the PEGI 12/ESRB T rating for the game, if so, warn the user beforehand if it's upped the rating.
+5. Do NOT have a mod interact with the cloud data ingame already.
+6. Do anything not listed here
 
 ### Build Instructions
 TBA
