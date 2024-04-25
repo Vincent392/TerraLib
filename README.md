@@ -29,3 +29,10 @@ TerraLib **cannot** do the following:
 
 ### Build Instructions
 TBA
+
+### Installation
+1. Download TerraLib.dll from the releases tab,
+2. Go into your Steam FF9 installation folder
+3. Copy and paste your downloaded TerraLib.dll into the directory
+4. Run the Memoria patcher
+5. You (should) be good to go
